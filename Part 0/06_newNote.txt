@@ -2,4 +2,4 @@ The user types in a value to the input section and click the save button.
 
 browser -> server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
 
-The input value and the date that the input value created are saved to the server as JSON format.
+The input value and the date that the input value created are saved to the server as JSON format without reloading the page.
